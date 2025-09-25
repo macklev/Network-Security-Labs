@@ -4,4 +4,4 @@ Hello! This repository showcases my work in my network security course labs, whe
 
 ## Table of Contents
 ### 1 Network Security Tools
-- [Ubuntu Lab Exploration] ()
+- [Ubuntu Lab Exploration](Ubuntu%20Server%20Exploration.md)
